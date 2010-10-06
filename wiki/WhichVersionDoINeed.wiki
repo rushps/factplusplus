@@ -25,7 +25,7 @@ You should know the version of Protege you are using. If unsure, please check _A
 
   * Version 4.1 Beta (Release 200-206). Use FaCT++ v1.4.1 plugin. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
 
-  * Version 4.1 Beta (Release 209 and up). There is no FaCT++ release for this version at the moment; the upcoming FaCT++ v1.5.0 will support these versions.
+  * Version 4.1 Beta (Release 209 and up). Use FaCT++ v1.5.0 plugin.
 
 == OWL API ==
 
@@ -33,7 +33,7 @@ You should know the version of Protege you are using. If unsure, please check _A
 
   * OWL API v3.0.x. Use FaCT++ jar v1.4.1 with binaries for v1.4.1. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
 
-  * OWL API v3.1.x. There is no FaCT++ release for this version at the moment; the upcoming FaCT++ v1.5.0 will support these versions.
+  * OWL API v3.1.0. Use FaCT++ jar v1.5.0 with binaries for v1.5.0.
 
 == DIG 1.1 server ==
   * Use FaCT++ binaries v1.4.0. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
@@ -42,4 +42,4 @@ You should know the version of Protege you are using. If unsure, please check _A
   * Use the latest available version (usually you will see it on top of the all downloads) compiled for the appropriate platform. You might want to use a source distribution, or the latest SVN tree as well.
 
 == LISP-like interface ==
-  * Use FaCT++ v1.4.1. Note that there is only Linux precompiled version; you will need to compile yourself a version for other operating systems. Note that support of this language is likely to be discontinued after the 1.4.1 version; however, the translator to some version of OWL 2 would be provided.
+  * Use FaCT++ v1.5.0. Note that there is only Linux precompiled version; you will need to compile a version for other operating systems yourself. Note that support of this language is likely to be discontinued after the 1.5.0 version; however, the translator to some version of OWL 2 would be provided.
