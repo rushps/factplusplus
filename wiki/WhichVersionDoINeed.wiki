@@ -19,27 +19,27 @@ Now the choice depends on what are you going to use FaCT++ for:
 == Protege ==
 You should know the version of Protege you are using. If unsure, please check _About Protege..._ menu element (_org.protege.osgi.framework.Launcher_ in the main menu). You will find *Version* and *Build* information there. Knowing this, you have the following options:
 
-  * Version 4.0. Use FaCT++ v1.4.0.1 plugin. The FaCT++ plugin will be updated automatically if you are using older version of FaCT++. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * Version 4.0. Use FaCT++ v1.4.0.1 plugin. The FaCT++ plugin will be updated automatically if you are using an older version of FaCT++. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
-  * Version 4.1 Alpha (release 100-103). Use FaCT++ v1.4.0.1 plugin. The FaCT++ plugin will be updated automatically if you are using older version of FaCT++. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * Version 4.1 Alpha (release 100-103). Use FaCT++ v1.4.0.1 plugin. The FaCT++ plugin will be updated automatically if you are using an older version of FaCT++. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
-  * Version 4.1 Beta (Release 200-206). Use FaCT++ v1.4.1 plugin. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * Version 4.1 Beta (Release 200-206). Use FaCT++ v1.4.1 plugin. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
   * Version 4.1 Beta (Release 209 and up). Use FaCT++ v1.5.0 plugin.
 
 == OWL API ==
 
-  * OWL API v2.x. Use FaCT++ jar v1.4.0.1 with binaries for v1.4.0. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * OWL API v2.x. Use FaCT++ jar v1.4.0.1 with binaries for v1.4.0. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
-  * OWL API v3.0.x. Use FaCT++ jar v1.4.1 with binaries for v1.4.1. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * OWL API v3.0.x. Use FaCT++ jar v1.4.1 with binaries for v1.4.1. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
   * OWL API v3.1.0. Use FaCT++ jar v1.5.0 with binaries for v1.5.0.
 
 == DIG 1.1 server ==
-  * Use FaCT++ binaries v1.4.0. Note that support of this version is discontinues, and there would be no more FaCT++ releases that supports it.
+  * Use FaCT++ binaries v1.4.0. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
 == C++ code ==
   * Use the latest available version (usually you will see it on top of the all downloads) compiled for the appropriate platform. You might want to use a source distribution, or the latest SVN tree as well.
 
 == LISP-like interface ==
-  * Use FaCT++ v1.5.0. Note that there is only Linux precompiled version; you will need to compile a version for other operating systems yourself. Note that support of this language is likely to be discontinued after the 1.5.0 version; however, the translator to some version of OWL 2 would be provided.
+  * Use FaCT++ v1.5.0. Note that there is only Linux precompiled version; you will need to compile a version for other operating systems yourself. Note that support of this language is likely to be discontinued after version 1.5.0; however, the translator to some version of OWL 2 would be provided.
