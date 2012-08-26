@@ -1,7 +1,7 @@
 #summary How to use Atomic Decomposition feature of FaCT++ in Java
 = Atomic Decomposition usage =
 
-Atomic Decomposition (AD) is a method to 
+Atomic Decomposition (AD) is a method to partition an ontology into pieces called _atoms_. Atom is a set of axioms that appears in every module all together (or none of them). They could be viewed as a smallest pieces of modules.
 
 FaCT++ provides 3 methods to create and work with an AD:
   * `int getAtomicDecompositionSize(boolean useSemanticLocality, int moduleType);` creates the AD of the ontology already loaded into reasoner according to parameters. After the AD is created, it returns size of the AD. All the atoms can be accessed via index.
