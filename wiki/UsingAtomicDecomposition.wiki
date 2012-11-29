@@ -8,8 +8,6 @@ FaCT++ provides 3 methods to create and work with an AD:
   * `Set<OWLAtoms> getAtomAxioms(int atomIndex);` returns all the axioms of an atom with index `atomIndex`
   * `int[] getAtomDependents(int atomIndex);` returns all the atoms on which an atom with index `atomIndex` _directly depends_. That is, it represents the part of transitively reduced dependency relation that starts on a given atom and has depth 1. See below in the code how to get all the dependencies of a given atom.
 
-*WARNING!! Current version of FaCT++ (v1.6.0) is known to be working incorrectly for _semantic_ locality checking for _TOP_ and _STAR_ module types.* This is going to be fixed in 1.6.1, but right now please avoid applying semantic locality for these types.
-
 = Code example =
 
 Here is the usage example of the methods described above. There are 2 methods in this example: 
