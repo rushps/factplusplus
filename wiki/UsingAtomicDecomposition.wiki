@@ -5,7 +5,7 @@ Atomic Decomposition (AD) is a method to partition an ontology into pieces calle
 
 FaCT++ provides 3 methods to create and work with an AD:
   * `int getAtomicDecompositionSize(boolean useSemanticLocality, int moduleType);` creates the AD of the ontology already loaded into reasoner according to parameters. After the AD is created, it returns size of the AD. All the atoms can be accessed via index.
-  * `Set<OWLAtoms> getAtomAxioms(int atomIndex);` returns all the axioms of an atom with index `atomIndex`
+  * `Set<OWLAxiom> getAtomAxioms(int atomIndex);` returns all the axioms of an atom with index `atomIndex`
   * `int[] getAtomDependents(int atomIndex);` returns all the atoms on which an atom with index `atomIndex` _directly depends_. That is, it represents the part of transitively reduced dependency relation that starts on a given atom and has depth 1. See below in the code how to get all the dependencies of a given atom.
 
 = Code example =
