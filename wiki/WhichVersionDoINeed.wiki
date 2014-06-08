@@ -25,7 +25,9 @@ You should know the version of Protege you are using. If unsure, please check _A
 
   * Version 4.1 Beta (Release 200-206). Use FaCT++ v1.4.1 plugin. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
-  * Version 4.1 Beta (Release 209 and up). Use FaCT++ v1.5.0 plugin.
+  * Version 4.1 Beta (Release 209 and up). Use the latest FaCT++ plugin.
+
+  * Version 4.3, 4.2. Use the latest FaCT++ plugin.
 
 == OWL API ==
 
@@ -33,7 +35,9 @@ You should know the version of Protege you are using. If unsure, please check _A
 
   * OWL API v3.0.x. Use FaCT++ jar v1.4.1 with binaries for v1.4.1. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
 
-  * OWL API v3.1.0. Use FaCT++ jar v1.5.0 with binaries for v1.5.0.
+  * OWL API v3.1.0. Use the latest FaCT++ jar with corresponding binaries.
+
+  * OWL API v3.4.10. Use the latest FaCT++ jar with corresponding binaries.
 
 == DIG 1.1 server ==
   * Use FaCT++ binaries v1.4.0. Note that support of this version is discontinued, and there would be no more FaCT++ releases that supports it.
